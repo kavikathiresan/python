@@ -11,3 +11,5 @@ A tuple is an immutable object, which means it cannot be changed, and we use it 
 A Set is an unordered collection data type that is iterable, mutable and has no duplicate elements.
 # Dictionary
 dictionary is a collection data type which is wrapped in braces, {}, with a series of key value pairs inside the braces
+# path
+The os.path module is always the path module suitable for the operating system Python is running on, and therefore usable for local paths.
