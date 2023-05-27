@@ -7,3 +7,7 @@ Separated by , and ' ' str with()
 Breaking into pieces default it wil be select as space
 # Tuple
 A tuple is an immutable object, which means it cannot be changed, and we use it to represent fixed collections of items. 
+# Set
+A Set is an unordered collection data type that is iterable, mutable and has no duplicate elements.
+# Dictionary
+dictionary is a collection data type which is wrapped in braces, {}, with a series of key value pairs inside the braces
