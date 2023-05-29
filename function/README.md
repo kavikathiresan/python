@@ -1,6 +1,10 @@
 # Function 
 -def keyword and its means executing a logic many time but writing only one time
  -In simple words, a function is a relationship between inputs where each input is related to exactly one output.
+ # Lambda
+ variable = lambda number+expression
+ 
+ It is anonymous function means function without name
 # Return
 A return statement is used to end the execution of the function call and “returns” the result.Using return we can save the result and can do math operation or some specified taks
 # Map
